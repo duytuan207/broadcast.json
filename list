@@ -1,4 +1,4 @@
 //sổ ban
 app.get('/list', function (req, res) {
-  res.json({"100074753721816"})
+  res.json({})
 })
